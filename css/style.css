@@ -138,13 +138,6 @@ table .annee{
     }
 }
 
-@media screen and (max-width: 900px){
-    #global {
-        width: 600px;
-        margin: 20px auto;
-    }
-}
-
 @media screen and (max-width: 800px){
     #global {
         width: 500px;
@@ -156,7 +149,7 @@ table .annee{
     }
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 500px){
     #global {
         width: 350px;
         margin: 20px auto;
